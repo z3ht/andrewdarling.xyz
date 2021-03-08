@@ -1,0 +1,15 @@
+**/*.log
+public/
+.cache/
+**/.DS_Store
+logs/
+node_modules/
+*.tgz
+.npm
+.eslintcache
+.editorconfig
+.nvmrc
+.prettierrc.js
+.idea
+.env*
+
