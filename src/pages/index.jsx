@@ -1,7 +1,7 @@
 import React from 'react'
 
 import SketchWrapper from '../components/sketchWrapper'
-import sketch from '../scripts/sketches/fissures'
+import sketch from '../scripts/sketches/delicate-snowflake'
 
 const IndexPage = () => {
   return (

@@ -53,7 +53,7 @@
 
   // ~~~~~~ Setup ~~~~~~
   p.setup = () => {
-    p.createCanvas(800, 800)
+    p.createCanvas(p.displayWidth, p.displayHeight)
     p.background(0, 204, 204)
     tileWidth = p.width / tileCountX
     tileHeight = p.height / tileCountY
